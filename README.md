@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently learning **React, Redux and DSA**
 
+- 👨‍💻 All of my projects are available at [https://shubh-portfolio.netlify.app/](https://shubh-portfolio.netlify.app/)
+
 - 📝 I regularly write articles on [Medium/shubhsinghal](Medium/shubhsinghal)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS, MongoDb, Express, React, Redux**

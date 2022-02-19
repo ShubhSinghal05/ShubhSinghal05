@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **shubhsinghal9899@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19ylAFyzl5hIFAfTDb5Wu5Oga3tEBpQZr/view?usp=sharing](https://drive.google.com/file/d/19ylAFyzl5hIFAfTDb5Wu5Oga3tEBpQZr/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1uxk1uQ0xcE2XkDt9mg0HTDMS9HahmgwU/view?usp=sharing](https://drive.google.com/file/d/1uxk1uQ0xcE2XkDt9mg0HTDMS9HahmgwU/view?usp=sharing)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

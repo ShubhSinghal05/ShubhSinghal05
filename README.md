@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/shubhsinghal05" target="blank"><img src="https://img.shields.io/twitter/follow/shubhsinghal05?logo=twitter&style=for-the-badge" alt="shubhsinghal05" /></a> </p>
 
-- 🌱 I’m currently learning **React, Redux and DSA**
+- 🌱 I’m currently learning **New TechStacks**
 
-- 👨‍💻 All of my projects are available at [https://shubh-portfolio.netlify.app/](https://shubh-portfolio.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://shubh-portfolio.netlify.app/](https://shubh-portfolio.netlify.app/)
 
 - 📝 I regularly write articles on [Medium/shubhsinghal](Medium/shubhsinghal)
 
@@ -17,11 +17,6 @@
 
 - 📫 How to reach me **shubhsinghal9899@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1uxk1uQ0xcE2XkDt9mg0HTDMS9HahmgwU/view?usp=sharing](https://drive.google.com/file/d/1uxk1uQ0xcE2XkDt9mg0HTDMS9HahmgwU/view?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
